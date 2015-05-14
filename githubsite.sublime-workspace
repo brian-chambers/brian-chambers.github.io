@@ -1,0 +1,301 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git",
+				"Github: Repository"
+			],
+			[
+				"github",
+				"Github: Plugin Settings"
+			],
+			[
+				"gi",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/brianchambers/Documents/brian-chambers.github.io"
+	],
+	"file_history":
+	[
+		"/Users/brianchambers/Documents/brian-chambers.github.io/Index.html",
+		"/Users/brianchambers/Documents/MavensMate/Gantt Dev/src/classes/GanttComponentController.cls-meta.xml",
+		"/Users/brianchambers/Documents/MavensMate/Gantt Dev/src/classes/GanttComponentController.cls",
+		"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD/src/objects/Account.object",
+		"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD/src/classes/FSCustomerInputFieldSelectionExtension.cls",
+		"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD/src/classes/FSCopyHQCustomerInputToOutletCtrl.cls",
+		"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD/src/classes/FSConstants.cls",
+		"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD/src/classes/FSInitialOrdSapMaterialExtensions.cls",
+		"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD/src/classes/InstallationAccountTeam.cls",
+		"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD/src/classes/FSInstallationTriggerHandler.cls",
+		"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD/src/classes/FSAccountTriggerHandler.cls",
+		"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD/src/classes/FSExecutionPlanStatusIndicatorExtension.cls",
+		"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD/src/profiles/FS NDO_P.profile",
+		"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD/Coke - FET - PROD.sublime-settings",
+		"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD/src/classes/CCR_ValuePropositionviewOverrideTest.cls",
+		"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD/src/triggers/FSAccountTeamMemberTrigger.trigger-meta.xml",
+		"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD/src/classes/FSAccountTeamMemberTriggerHandler.cls-meta.xml",
+		"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD/src/objects/Activity.object",
+		"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD/src/triggers/FSOutletDispenserTrigger.trigger-meta.xml",
+		"/Users/brianchambers/Documents/MavensMate/Coke - FET - Sprite/src/classes/FSInstallationTriggerHandler.cls",
+		"/Users/brianchambers/Documents/MavensMate/Coke - FET - Sprite/src/classes/FSAccountTriggerHandler.cls",
+		"/Users/brianchambers/Desktop/dStandard.css",
+		"/Users/brianchambers/Downloads/Styles/styles.css",
+		"/Users/brianchambers/Documents/MavensMate/Coke - FET - Sprite/Coke - FET - Sprite.sublime-settings",
+		"/Users/brianchambers/Dropbox/Analytics/SelectionBinding.json",
+		"/Users/brianchambers/Dropbox/Analytics/ResultsBinding.json",
+		"/Users/brianchambers/Documents/GitHub/sfdc-analytics/RED2014.json",
+		"/Users/brianchambers/Library/Application Support/Sublime Text 3/Packages/User/Github Tools.sublime-settings",
+		"/Users/brianchambers/Dropbox/Analytics/FLUExample.json",
+		"/Users/brianchambers/Dropbox/Analytics/RED2014v1.json",
+		"/Users/brianchambers/Dropbox/Analytics/YOY%.json",
+		"/Users/brianchambers/Dropbox/Analytics/Opportunity_Products_schema.json",
+		"/Users/brianchambers/Dropbox/Analytics/Opportunity_schema.json",
+		"/Users/brianchambers/Documents/Analytics/rawdata_schema.json",
+		"/Users/brianchambers/Documents/Analytics/rawdata.csv",
+		"/Users/brianchambers/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/brianchambers/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/brianchambers/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/brianchambers/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/brianchambers/Desktop/UTE-OCT-2_schema.json",
+		"/Users/brianchambers/Desktop/timecards121514_schema.json",
+		"/Users/brianchambers/Desktop/UTE-OCT_schema-2.json",
+		"/Users/brianchambers/Desktop/Medicare_FY2011_schema.json",
+		"/Users/brianchambers/Desktop/CMCimportTemplate.csv",
+		"/Users/brianchambers/Desktop/patients-100k_schema.json",
+		"/Users/brianchambers/Desktop/EdgeFormatSample.jar",
+		"/Users/brianchambers/Documents/GitHub/sample/build.properties",
+		"/Users/brianchambers/Library/Application Support/Sublime Text 3/Packages/User/mavensmate.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/brianchambers/Documents/MavensMate/Gantt Dev/src/classes",
+			"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD",
+			"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD/src",
+			"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD/src/classes",
+			"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD",
+			"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD/src/classes",
+			"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD",
+			"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD/src/classes",
+			"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD/src",
+			"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD/src/classes",
+			"/Users/brianchambers/Documents/MavensMate/Coke - FET - PROD"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Gantt_Chart_Config__c",
+			"FS_final_order",
+			"FS_VMS_Customer__c",
+			"FS_final_order_",
+			"FS_final_order_method",
+			"copy",
+			"invoice",
+			"lstCon",
+			"debug",
+			"003i000000eLfBt",
+			"saContactName",
+			"Site Assessment Contact Name",
+			"FS_Site_Assessment_Contact_Name__c<",
+			"Site Assessment Contact name",
+			"Winkler",
+			"VPO",
+			"FS_VPO_Override__c",
+			"Transitioned",
+			"SP_aligned",
+			"SP",
+			"Overall_Status2__c",
+			"personaccount",
+			"001i000000X14IfAAJ",
+			"history",
+			"FS_7000_Series_Agitated_Brands_Selection__c\n            ",
+			"  <picklist>FS_7000_Series_Agitated_Brands_Selection__c</picklist>\n            ",
+			"  <picklist>FS_7000_Series_Agitated_Brands_Selection__c</picklist>\n            <values>\n                <fullName>Barqs</fullName>\n                <default>false</default>\n            </values>\n            <values>\n                <fullName>Dr Pepper</fullName>\n                <default>false</default>\n            </values>\n            <values>\n                <fullName>N%2FA to 8000%2F9000 Series</fullName>\n                <default>false</default>\n            </values>\n            <values>\n                <fullName>Pibb</fullName>\n                <default>false</default>",
+			"brand",
+			"X7000_Series_Agitated_Brands_Rule",
+			"pibb",
+			"7000",
+			"Label.Agitated_Brand_2",
+			"Label.Agitated_Brand_1",
+			"cokesmart",
+			"FS_Execution_Plan_100_Complete__c",
+			"SP_Trained",
+			"FS_SP_Trained_for_7000_Series",
+			"FS_Installation__c.FS_SP_Trained_for_7000_Series__c",
+			"Project: ",
+			"Timecard: "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "githubsite.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 461.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
