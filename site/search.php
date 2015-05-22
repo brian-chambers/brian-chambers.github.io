@@ -83,7 +83,7 @@
                 </li>
                 <li><a href="index-2.html">Programs</a></li>
                 <li><a href="index-3.html">Blog</a></li>
-                <li><a href="index-4.html">Contacts</a></li>
+                <li><a href="Contact.html">Contacts</a></li>
             </ul>
         </nav> 
     </div>
@@ -101,24 +101,25 @@
         <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-6 wow fadeInUp">
                 <h4>copyright</h4>
-                <p class="prev"><span>Engroon</span> &copy; <em id="copyright-year"></em> <a href="index-5.html">Privacy Policy</a></p>
-                <ul class="follow_icon">
+                <p class="prev"><span>JC Septic Service</span> &copy; <em id="copyright-year"></em> <a href="index-5.html">Privacy Policy</a></p>
+                <!--<ul class="follow_icon">
                     <li><a href="#"><img src="img/follow_icon1.png" alt=""></a></li>
                     <li><a href="#"><img src="img/follow_icon2.png" alt=""></a></li>
                     <li><a href="#"><img src="img/follow_icon3.png" alt=""></a></li>
                     <li><a href="#"><img src="img/follow_icon4.png" alt=""></a></li>
                     <li><a href="#"><img src="img/follow_icon5.png" alt=""></a></li>
-                </ul>
+                </ul>-->
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
-                <h4>Get involved</h4>
+                <h4>Septic Services</h4>
                 <ul class="list3">
-                    <li><a href="#">Report pollution</a></li>
-                    <li><a href="#">Report litter</a></li>
-                    <li><a href="#">Report smoky vehicles</a></li>
-                    <li><a href="#">Prevent illegal dumping</a></li>
-                    <li><a href="#">Have your say</a></li>
-                    <li><a href="#">Measure your impact</a></li>
+                   <li><span><a href="septic-tank-pumping-cleaning.html">Cleaning Septic Tanks</a></span> </li>
+                    <li><span><a href="installation.html">Septic Tank Installations</a></span> </li>
+                    <li><span><a href="installation.html">Repair Failing Septic Systems</a></span> </li>
+                    <li><span><a href="installation.html">Septic Tank Repair</a></span> </li>
+                    <li><span><a href="installation.html">Septic Tank Design</a></span> </li>
+                    <li><span><a href="septic-tank-pumping-cleaning.html">Septic Tank Inspection</a></span> </li>
+                    <li><span><a href="public/inspection.html">Video Camera Inspection</a></span> </li>
                 </ul>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
@@ -139,13 +140,13 @@
                     <li>
                         <figure><img src="img/foo_icon1.png" alt=""></figure>
                         <div class="extra-wrap">
-                            <p>9870 St Vincent Place,<br>Glasgow, DC 45 Fr 45<br>Telephone:  +1 800 603 6035.</p>
+                            <p>1211 Maple Creek Lane <br>GLoganville, GA 33052<br>Telephone: 770 338 0599</p>
                         </div>
                     </li>
                     <li>
                         <figure><img src="img/foo_icon2.png" alt=""></figure>
                         <div class="extra-wrap">
-                            <p>e-mail: <a href="#">contact@demolink.org</a></p>
+                            <p>e-mail: <a href="mailto:jeff@jcsepticservice.com">info@jcsepticservice.com</a></p>
                         </div>
                     </li>
                 </ul>
