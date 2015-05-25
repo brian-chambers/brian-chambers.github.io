@@ -140,7 +140,7 @@
                     <li>
                         <figure><img src="img/foo_icon1.png" alt=""></figure>
                         <div class="extra-wrap">
-                            <p>1211 Maple Creek Lane <br>Loganville, GA 33052<br>Telephone: 770 338 0599</p>
+                            <p>1211 Maple Creek Lane <br>Loganville, GA 30052<br>Telephone: 770 338 0599</p>
                         </div>
                     </li>
                     <li>
